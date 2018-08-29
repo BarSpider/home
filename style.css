@@ -117,7 +117,8 @@ a{
     width: 50vw;
     height: 50vw;
     float: left;
-    margin-top:7vh;
+    margin-top:3vh;
+    margin-bottom:4vh;
 }
 #dismember .memimg img{
     width: 40vw;
@@ -143,7 +144,11 @@ a{
 #dismember .des{
     font-size: 3vw;
 }
-
+#dismember #space{
+    height: 12vh;
+    background-color: black;
+    width: 100%;
+}
 
 
 /*アクセス*/
@@ -199,7 +204,7 @@ a{
 }
 /*フッター*/
 #bottom img{
-    margin-top: 3%;
+    margin-top: 13vh;
     margin-left: 4vw;
     width: 92vw;
 }
