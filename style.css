@@ -102,7 +102,11 @@ a{
     color: white;
     text-align: center;
 }
-
+#dismenu #menudes{
+    color: gray;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
 
 /*メンバー*/
 #dismember{
